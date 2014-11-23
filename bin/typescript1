@@ -1,0 +1,22 @@
+Script started on Wed Apr 23 23:56:22 2014
+[?1034hbash-3.2$ java TestGraph
+EDGE:
+          Data:23
+          Head:a
+          Tail:b
+EDGE:
+          Data:24
+          Head:c
+          Tail:d
+NODE:
+          Data:a
+NODE:
+          Data:b
+NODE:
+          Data:c
+NODE:
+          Data:d
+bash-3.2$ exit
+exit
+
+Script done on Wed Apr 23 23:56:33 2014
